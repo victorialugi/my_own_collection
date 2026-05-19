@@ -16,10 +16,6 @@
 
 ![16.png](https://github.com/victorialugi/my_own_collection/blob/main/16.png)
 
-### Ссылки
-(ссылка на скриншот 1)
-(ссылка на скриншот 1)
-![]()
 
 **Ссылки:**
 
