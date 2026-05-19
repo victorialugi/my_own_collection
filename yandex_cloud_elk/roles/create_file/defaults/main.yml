@@ -1,0 +1,3 @@
+---
+file_path: "/tmp/hello_from_role.txt"
+file_content: "This file was created by my role from collection!"
