@@ -1,0 +1,22 @@
+---
+namespace: victoria_luginina
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+
+authors:
+  - Victoria Luginina
+
+description: My own Ansible Collection with custom module and role
+
+license:
+  - MIT
+
+tags:
+  - test
+  - custom
+  - module
+
+dependencies: {}
+
+repository: https://github.com/victorialugi/my_own_collection
